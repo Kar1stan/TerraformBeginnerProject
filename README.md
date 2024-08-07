@@ -7,7 +7,7 @@ Integrated with:
 
 - [x] https://aws.amazon.com/
 - [x] https://www.terraform.io/
-- [ ] 
+      
 ## 💻 Pre-requisites
 
 Before you use this project you need to have Terraform installed in your computer and have an account on AWS.
