@@ -13,7 +13,7 @@ Integrated with:
 Before you use this project you need to have Terraform installed in your computer and have an account on AWS,and export AWS Access Keys to your terminal.
 
 ### Git clone
-This will clone the project, install NPM packages and also the Webdriver.io which is required to run the test.
+This will clone the project,install Terraform which is required to run the test.
 ```
 $ git clone https://github.com/Kar1stan/TerraformBeginnerProject.git
 $ cd TerraformBeginnerProject
