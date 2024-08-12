@@ -27,4 +27,8 @@ $ export AWS_SECRET_ACCESS_KEY=45trEayUUu1(example)
 $ terraform init
 $ terraform apply
 ```
+If you want to destroy your resources in AWS open the terminal and run: 
+```
+$ terraform destroy 
+```
 For further help or additional errors [here]([https://webdriver.io/docs/gettingstarted](https://developer.hashicorp.com/terraform/tutorials/aws-get-started))
