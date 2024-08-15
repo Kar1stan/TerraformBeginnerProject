@@ -31,4 +31,4 @@ If you want to destroy your resources in AWS open the terminal and run:
 ```
 $ terraform destroy 
 ```
-For further help or additional errors [here]([https://webdriver.io/docs/gettingstarted](https://developer.hashicorp.com/terraform/tutorials/aws-get-started))
+For further help or additional errors [here](https://developer.hashicorp.com/terraform/tutorials/aws-get-started))
